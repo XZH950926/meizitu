@@ -1,0 +1,13 @@
+pymongo==3.7.2
+pyOpenSSL==18.0.0
+pytesseract==0.2.5
+requests==2.19.1
+requests-oauthlib==1.0.0
+Scrapy==1.5.1
+scrapy-redis==0.6.8
+selenium==3.141.0
+service-identity==17.0.0
+shortuuid==0.5.0
+six==1.11.0
+Twisted==18.9.0
+
